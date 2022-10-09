@@ -1,6 +1,6 @@
 <template>
   <div>
-  <router-view></router-view>
+    登陆页面
   </div>
 </template>
 
